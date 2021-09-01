@@ -35,7 +35,7 @@ $ git clone https://github.com/Farhan-dqz/juliemwol
 $ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node juli.js
+$ node julie.js
 ```
       
 ```js
@@ -43,7 +43,7 @@ SETUP
 $ git clone https://github.com/Farhan-dqz/juliemwol
 $ cd juliemwol
 $ npm i
-$ node juli.js
+$ node julie.js
 ```
 
 ----
