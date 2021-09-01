@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Farhan-dqz/chuinjumwol
+$ git clone https://github.com/Farhan-dqz/juliemwol
 $ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -40,7 +40,7 @@ $ node juli.js
       
 ```js
 SETUP
-$ git clone https://github.com/Farhan-dqz/chinjumwol
+$ git clone https://github.com/Farhan-dqz/juliemwol
 $ cd juliemwol
 $ npm i
 $ node juli.js
