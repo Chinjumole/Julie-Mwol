@@ -31,7 +31,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/Chinjumwol/chuinjumwol
-$ cd Julie-Mwol
+$ cd Chinju-mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
