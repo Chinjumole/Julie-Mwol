@@ -32,7 +32,7 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/Farhan-dqz/chuinjumwol
-$ cd Chinju-mwol
+$ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node juli.js
