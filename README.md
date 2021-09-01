@@ -21,9 +21,9 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chinjumwol/chinjumwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Farhan-dqz/chinjumwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Chinjumwol/chinjumwol
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhan-dqz/JulieMwol
    )
   
 ### The Hard Method
@@ -31,19 +31,19 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Farhan-dqz/juliemwol
+$ git clone https://github.com/Farhan-dqz/Juliemwol
 $ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node Julie.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Farhan-dqz/juliemwol
-$ cd juliemwol
+$ git clone https://github.com/Farhan-dqz/Juliemwol
+$ cd Juliemwol
 $ npm i
-$ node julie.js
+$ node Julie.js
 ```
 
 ----
