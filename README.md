@@ -34,7 +34,7 @@ $ git clone https://github.com/Chinjumwol/chuinjumwol
 $ cd Chinju-mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node chinju.js
 ```
       
 ```js
@@ -42,7 +42,7 @@ SETUP
 $ git clone https://github.com/chinjumwol/chinjumwol
 $ cd Chinjumwol
 $ npm i
-$ node julie.js
+$ node chinju.js
 ```
 
 ----
